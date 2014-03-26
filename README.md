@@ -14,4 +14,4 @@ $.ajaxCacher({
 })
 ```
 
-In this case however, the cache option will instruct the ajaxCacher to look in the local variable rather than use a timestamp to hope the browser will provide caching (not always guaranteed)
+In this case however, the cache option will instruct the ajaxCacher to look in the local variable rather than using a timestamp to hope the browser will provide caching (not always guaranteed)
